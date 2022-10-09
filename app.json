@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Alerttmee FREE React Native",
+    "slug": "alerttmee-free-react-native",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.7.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "alerttmee"
+    },
+    "description": "Alerttmee React Native, based on Alerttmee Design System. Coded by Creative Tim"
+  }
+}
